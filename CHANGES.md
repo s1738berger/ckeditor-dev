@@ -22,6 +22,9 @@ Fixed Issues:
 * [#2235](https://github.com/ckeditor/ckeditor-dev/issues/2235): Fixed: [Image](https://ckeditor.com/cke4/addon/image) in table cell has an empty URL field when edited from context menu opened by right-click when [Table Selection](https://ckeditor.com/cke4/addon/tableselection) plugin is in use.
 * [#3120](https://github.com/ckeditor/ckeditor-dev/issues/3120): [IE8] Fixed: [`CKEDITOR.tools.extend`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_tool.html#method-extend) function doesn't work with [`DontEnum`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Properties) object property attribute.
 * [#3098](https://github.com/ckeditor/ckeditor-dev/issues/3098): Fixed: Unit pickers for table cell width and height in [Table Tools](https://ckeditor.com/cke4/addon/tabletools) plugin have different width.
+* [#2845](https://github.com/ckeditor/ckeditor-dev/issues/2845): [Rich Combo](https://ckeditor.com/cke4/addon/richcombo) reacts to right mouse button click.
+* [#2857](https://github.com/ckeditor/ckeditor-dev/issues/2857): [List Block](https://ckeditor.com/cke4/addon/listblock) items react to right mouse button click.
+* [#2858](https://github.com/ckeditor/ckeditor-dev/issues/2858): [Menu](https://ckeditor.com/cke4/addon/menu) items react to right mouse button click.
 
 API Changes:
 
@@ -40,6 +43,7 @@ API Changes:
 * [#2924](https://github.com/ckeditor/ckeditor-dev/issues/2924): Added the [`CKEDITOR.tools.style.border`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_tools_style_border.html) object wrapping CSS border style helpers under single type.
 * [#2495](https://github.com/ckeditor/ckeditor-dev/issues/2495): [Table Selection](https://ckeditor.com/cke4/addon/tableselection) plugin can be now disabled for the given table by the `data-cke-tableselection-ignored` attribute.
 * [#2692](https://github.com/ckeditor/ckeditor-dev/issues/2692): Plugins can now expose information about supported environment by implementing [`pluginDefinition.isSupportedEnvironment`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_pluginDefinition.html#method-isSupportedEnvironment) method.
+* [#2857](https://github.com/ckeditor/ckeditor-dev/issues/2857): The [`CKEDITOR.tools.fireElementEventHandler`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_tools.html#method-fireElementEventHandler) was added.
 
 Other Changes:
 
