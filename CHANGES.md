@@ -16,6 +16,7 @@ Fixed Issues:
 * [#1478](https://github.com/ckeditor/ckeditor-dev/issues/1478): Fixed: Custom colors added to [Color Button](https://ckeditor.com/cke4/addon/colorbutton) via [`config.colorButton_colors`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_config.html#cfg-colorButton_colors) in form label/code don't work correctly.
 * [#1469](https://github.com/ckeditor/ckeditor-dev/issues/1469): Fixed: Trying to get data from nested editable inside freshly pasted widget throws an error.
 * [#2923](https://github.com/ckeditor/ckeditor-dev/issues/2923): Fixed: CSS `windowtext` color is not correctly recognized by [`CKEDITOR.tools.style.parse`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_tools_style_parse.html) functions.
+* [#3115](https://github.com/ckeditor/ckeditor-dev/issues/3115): Fixed: Errors thrown when Editor is detached and destroyed during initialization.
 
 API Changes:
 
