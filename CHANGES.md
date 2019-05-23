@@ -30,6 +30,7 @@ API Changes:
 * [#2962](https://github.com/ckeditor/ckeditor-dev/issues/2962): Added the [`CKEDITOR.tools.promise`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_tools_promise.html) class.
 * [#2924](https://github.com/ckeditor/ckeditor-dev/issues/2924): Added the [`CKEDITOR.tools.style.border`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_tools_style_border.html) object wrapping CSS border style helpers under single type.
 * [#2495](https://github.com/ckeditor/ckeditor-dev/issues/2495): [Table Selection](https://ckeditor.com/cke4/addon/tableselection) plugin can be now disabled for the given table by the `data-cke-tableselection-ignored` attribute.
+* [#3124](https://github.com/ckeditor/ckeditor-dev/issues/3124): Added the [`CKEDITOR.dom.element`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_dom_element.html#method-isDetached) method.
 
 Other Changes:
 
