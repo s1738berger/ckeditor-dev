@@ -9,7 +9,7 @@ New Features:
 * [#2048](https://github.com/ckeditor/ckeditor-dev/issues/2048): [Enhanced Image](https://ckeditor.com/cke4/addon/image2) added config option [CKEDITOR.config.image2_maxSize](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_config.html#cfg-image2_maxSize) that allows setting a maximum size that image can be resized to with resizer.
 * [#1490](https://github.com/ckeditor/ckeditor-dev/issues/1490): Improved [Paste from Word](https://ckeditor.com/cke4/addon/pastefromword) plugin to retain table cell borders.
 * [#2870](https://github.com/ckeditor/ckeditor-dev/issues/2870): Added support for preserving positive `margin-left` values in list items for lists pasted with [Paste from Word](https://ckeditor.com/cke4/addon/pastefromword) plugin.
-* [#3138](https://github.com/ckeditor/ckeditor-dev/issues/3138): Use [`widgetDefinition.getClipboardHtml`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_plugins_widget.html#method-getClipboardHtml) to customize [Widget](https://ckeditor.com/cke4/addon/widget) HTML during copy, cut and dragging operations.
+* [#3138](https://github.com/ckeditor/ckeditor-dev/issues/3138): Use [`widgetDefinition.getClipboardHtml`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_plugins_widget.html#method-getClipboardHtml) method to customize [Widget](https://ckeditor.com/cke4/addon/widget) HTML during copy, cut and dragging operations.
 
 Fixed Issues:
 
