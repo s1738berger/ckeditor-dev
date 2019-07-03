@@ -46,17 +46,17 @@ CKEDITOR.plugins.setLang( 'colorbutton', 'de', {
 		F0F8FF: 'Alice Blau',
 		E6E6FA: 'Lavendel',
 		FFF: 'Weiß',
-		'1ABC9C': 'Strong Cyan', // MISSING
+		'1ABC9C': 'Kräftiges Cyan',
 		'2ECC71': 'Smaragdgrün',
-		'3498DB': 'Bright Blue', // MISSING
+		'3498DB': 'Starkes Blau',
 		'9B59B6': 'Amethystblau',
 		'4E5F70': 'Graublau',
-		'F1C40F': 'Vivid Yellow', // MISSING
+		'F1C40F': 'Leuchtendes Gelb',
 		'16A085': 'Dunkelcyan',
 		'27AE60': 'Dunkelsmaragdgrün',
-		'2980B9': 'Strong Blue', // MISSING
+		'2980B9': 'Kräftiges Blau',
 		'8E44AD': 'Dunkelviolett',
-		'2C3E50': 'Entsättigtes blau',
+		'2C3E50': 'Entsättigtes Blau',
 		'F39C12': 'Orange',
 		'E67E22': 'Möhrenfarben',
 		'E74C3C': 'Blassrot',
@@ -64,7 +64,7 @@ CKEDITOR.plugins.setLang( 'colorbutton', 'de', {
 		'95A5A6': 'Helles Graublau',
 		'DDD': 'Hellgrau',
 		'D35400': 'Kürbisfarben',
-		'C0392B': 'Strong Red', // MISSING
+		'C0392B': 'Kräftiges Rot',
 		'BDC3C7': 'Silber',
 		'7F8C8D': 'Graucyan',
 		'999': 'Dunkelgrau'
